@@ -1,8 +1,12 @@
 - education:
+  degree: Deep Learning Nanodegree
+  university: Udacity
+  time: Aug 2017 - Dec 2017
+- education:
   degree: Master of Information Systems Management 
   university: Carnegie Mellon University
   time: 2015 - 2017
 - education:
-  degree: B.Tech in Computer Science
+  degree: Bachelor of Technology in Computer Science
   university: Maharshi Dayanand University
   time: 2009 - 2013
