@@ -1,18 +1,30 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Python
   level: 95%
 - skill:
-  name: Ruby on Rails
+  name: Deep Learning
+  level: 90%
+- skill:
+  name: Machine Learning
+  level: 90%
+- skill:
+  name: TensorFlow
+  level: 90%
+- skill:
+  name: PySpark
+  level: 90%
+- skill:
+  name: Keras
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Scikit-Learn 
+  level: 85%
+- skill:
+  name: SQL
+  level: 85%
+- skill:
+  name: MongoDB
+  level: 85%
+- skill:
+  name: HTML5 & CSS
+  level: 80%
