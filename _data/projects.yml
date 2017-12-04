@@ -1,15 +1,15 @@
 - project:
-  title: 
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Image Generation using Deep Convolutional Generative Adversarial Network (DCGAN) 
+  link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Face%20Generation"
+  tagline: "<ul><li>Constructed a generative adversarial networks to generate new realistic images using celebrity image data</li></ul>"
+- project: 
+  title: Sequence to Sequence Model for English to French translation
+  link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Language%20Translation"
+  tagline: "<ul><li>Developed a sequence to sequence model to translate sentences english to french with an accuracy of 98.6%</li></ul>"
 - project:
   title: TV Script Generation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/TV%20Script%20Generation"
-  tagline: "<ul><li>Built a recurrent neural network to generate TV scripts using Simpsons TV show data.</li><li>Trained models with different hyperparameters to achieve a training loss of 0.16</li><li>Generated a new TV script for a scene at Moe's Tavern bar</li></ul>"
+  tagline: "<ul><li>Built a recurrent neural network to generate TV scripts using Simpsons TV show data.</li><li>Performed  hyperparameters tuning to achieve a training loss of 0.16</li><li>Generated a new TV script for a scene at Moe's Tavern bar</li></ul>"
 - project:
   title: CIFAR-10 Dataset Image Classification
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Image%20Classification%20CIFAR-10"
