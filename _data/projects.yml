@@ -11,10 +11,10 @@
   link: "#"
   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: CIFAR-10 Dataset Image Classification
+  link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Image%20Classification%20CIFAR-10"
+  tagline: "Developed a convolutional neural network for image classification using CIFAR-10 dataset containing 60000 images from 10 different categories"
 - project:
   title: Neural Network to Predict Daily Bike Rental Ridership
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/BikeShare_NeuralNetwork"
-  tagline: "<ul><li>Build a neural network to predict daily bike rental ridership, using sigmoid function as the activation function</li><li>Tweaked hyperparameters to study overfitting and underfitting of model.</li></ul>"
+  tagline: "<ul><li>Build a neural network to predict daily bike rental ridership, using sigmoid function as the activation function</li><li>Tweaked hyperparameters to study overfitting and underfitting of model</li></ul>"
