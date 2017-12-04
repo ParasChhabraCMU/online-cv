@@ -9,7 +9,7 @@
 - project:
   title: TV Script Generation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/TV%20Script%20Generation"
-  tagline: "<ul><li>Built a recurrent neural network to generate TV scripts using Simpsons TV show data.</li><li>Generated a new TV script for a scene at Moe's Tavern bar</li></ul>"
+  tagline: "<ul><li>Built a recurrent neural network to generate TV scripts using Simpsons TV show data.</li><li>Trained models with different hyperparameters to achieve a training loss of 0.16</li><li>Generated a new TV script for a scene at Moe's Tavern bar</li></ul>"
 - project:
   title: CIFAR-10 Dataset Image Classification
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Image%20Classification%20CIFAR-10"
