@@ -21,7 +21,7 @@ phone: 412-609-2376
 website: pchhabraonline.com #do not add http://
 linkedin: pchhabra2017
 github: ParasChhabraCMU
-summary: "I am an aspiring Data Scientist based in Mountain View, interested in leveraging my experience in the area of deep learning to improve various aspects of businesses.<br><br>Currently, I am working with Wireclass as a part-time data scientist, building a text classifier using a convolutional neural network to classify customer requests into different categories. I have worked on varied data intensive projects across various industrial settings.<br><br>My research interests are in the use of deep learning and artificial intelligence techniques for fraud detection, fake news detection and making smarter products with custom experiences for users.<br><br> <a href="Paras Chhabra_Resume.pdf">You can check my resume here</a>"
+summary: "I am an aspiring Data Scientist based in Mountain View, interested in leveraging my experience in the area of deep learning to improve various aspects of businesses.<br><br>Currently, I am working with Wireclass as a part-time data scientist, building a text classifier using a convolutional neural network to classify customer requests into different categories. I have worked on varied data intensive projects across various industrial settings.<br><br>My research interests are in the use of deep learning and artificial intelligence techniques for fraud detection, fake news detection and making smarter products with custom experiences for users."
 
 #Update all the sections by editing the files inside _data folder.
 
