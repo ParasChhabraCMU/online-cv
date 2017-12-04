@@ -2,12 +2,12 @@
   role: Data Scientist(Part-Time)
   time: Oct 2017 - Present
   company: Wireclass, Mountain View
-  details: "<ul style="list-style-type:square"><li>Communicating directly with clients to resolve data questions and presenting findings by analyzing financial and sales data</li><li>Developing a text classifier using convolutional neural network to classify requests into different categories</li></ul>"
+  details: "<ul><li>Communicating directly with clients to resolve data questions and presenting findings by analyzing financial and sales data</li><li>Developing a text classifier using convolutional neural network to classify requests into different categories</li></ul>"
 - experience: 
   role: Machine Learning Researcher
   time: Jan 2017 - May 2017
   company: Strava, Pittsburgh
-  details: "<ul style="list-style-type:square"><li>Analyzed geospatial data covering cycling patterns and found trends of Strava mobile application users in San Francisco area.</li><li>Performed exploratory and heat map analysis to analyze trend between increasing bike crimes and Strava user activities.</li><li>Designed a survey and provided recommendations for better mapping and identification of bike crimes related to Strava users.</li></ul>
+  details: "<ul><li>Analyzed geospatial data covering cycling patterns and found trends of Strava mobile application users in San Francisco area.</li><li>Performed exploratory and heat map analysis to analyze trend between increasing bike crimes and Strava user activities.</li><li>Designed a survey and provided recommendations for better mapping and identification of bike crimes related to Strava users.</li></ul>
 "
 - experience:
   role: Graduate Teaching Assistant 
