@@ -7,13 +7,13 @@
   link: "#"
   tagline: "A responsive website template designed to help web developers/designers market their services."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: TV Script Generation
+  link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/TV%20Script%20Generation"
+  tagline: "<ul><li>Built a recurrent neural network to generate TV scripts using Simpsons TV show data.</li><li>Generated a new TV script for a scene at Moe's Tavern bar</li></ul>"
 - project:
   title: CIFAR-10 Dataset Image Classification
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Image%20Classification%20CIFAR-10"
-  tagline: "Developed a convolutional neural network for image classification using CIFAR-10 dataset containing 60000 images from 10 different categories"
+  tagline: "<ul><li>Developed a convolutional neural network for image classification using CIFAR-10 dataset containing 60000 images from 10 different categories</li></ul>"
 - project:
   title: Neural Network to Predict Daily Bike Rental Ridership
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/BikeShare_NeuralNetwork"
