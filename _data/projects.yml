@@ -5,7 +5,7 @@
 - project: 
   title: Sequence to Sequence Model for English to French translation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Language%20Translation"
-  tagline: "<ul><li>Developed a sequence to sequence model to translate sentences english to french with an accuracy of 98.6%</li></ul>"
+  tagline: "<ul><li>Developed a sequence to sequence model to translate sentences from english to french with an accuracy of 98.6%</li></ul>"
 - project:
   title: TV Script Generation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/TV%20Script%20Generation"
@@ -21,4 +21,4 @@
 - project:
   title: Short Deep Learning Projects
   link: "https://github.com/ParasChhabraCMU/DeepLearning-AndrewNg"
-  tagline: "<ul><li>Modeled a deep neural network to predict whether an image is a cat or not</li><li>Performed differnet kinds of weight intialization to study its effect on convergence of gradient descent</li><li>Constructed a model to to recommend positions for </li><li>Performed gradient checking to check whether the implementation of backpropagation is correct or not</li></ul>"
+  tagline: "<ul><li>Modeled a deep neural network to predict whether an image is a cat or not</li><li>Performed differnet kinds of weight intialization to study its effect on convergence of gradient descent</li><li>Performed gradient checking to check whether the implementation of backpropagation is correct or not</li></ul>"
