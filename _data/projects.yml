@@ -1,9 +1,5 @@
-- intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
 - project:
-  title: Velocity
+  title: 
   link: "#hook"
   tagline: "A responsive website template designed to help startups promote, market and sell their products."
 - project:
@@ -19,6 +15,6 @@
   link: "#"
   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Neural Network to Predict Daily Bike Rental Ridership
+  link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/BikeShare_NeuralNetwork"
+  tagline: "<ul><li>Build a neural network to predict daily bike rental ridership, using sigmoid function as the activation function</li><li>Tweaked hyperparameters to study overfitting and underfitting of model.</li></ul>"
