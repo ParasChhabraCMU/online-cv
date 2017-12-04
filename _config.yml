@@ -14,7 +14,6 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Paras Chhabra
 tagline: Data Scientist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary:
 
 #sidebar links
 email: pchhabra@alumni.cmu.edu
