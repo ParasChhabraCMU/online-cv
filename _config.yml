@@ -14,8 +14,13 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Paras Chhabra
 tagline: Data Scientist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am an aspiring Data Scientist currently based in Mountain View, California. 
-          I am broadly interested in leveraging my experience in the field of deep learning and machine learning to make products smarter and creating rich custom experiences for users.'
+summary: 'I am an aspiring Data Scientist currently based in Mountain View, California. Currently, I am working with Wireclass as a part-time data scientist, building a text classifier using a convolutional neural network to classify customer requests into different categories. 
+
+I have worked as a data scientist intern during my graduate studies at Carnegie Mellon University, where I designed a prototype of household products recommendation engine. I also worked with Strava as a machine learning student researcher, where I analyzed geospatial data covering cycling patterns and trends of Strava mobile application users in SanFrancisco area.
+
+Prior to my graduate studies I worked for over 2 years of as a business data analyst where I got an opportunity to work across various cross functional teams. 
+
+My research interests are in use of deep neural networks and artificial intelligence to make smarter products and creating rich custom experiences for users.'
 
 #sidebar links
 email: pchhabra@alumni.cmu.edu
