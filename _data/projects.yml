@@ -18,3 +18,7 @@
   title: Neural Network to Predict Daily Bike Rental Ridership
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/BikeShare_NeuralNetwork"
   tagline: "<ul><li>Build a neural network to predict daily bike rental ridership, using sigmoid function as the activation function</li><li>Tweaked hyperparameters to study overfitting and underfitting of model</li></ul>"
+- project:
+  title: Short Deep Learning Projects
+  link: "https://github.com/ParasChhabraCMU/DeepLearning-AndrewNg"
+  tagline: "<ul><li>Modeled a deep neural network to predict whether an image is a cat or not</li><li>Performed differnet kinds of weight intialization to study its effect on convergence of gradient descent</li><li>Constructed a model to to recommend positions for </li><li>Performed gradient checking to check whether the implementation of backpropagation is correct or not</li></ul>"
