@@ -7,20 +7,19 @@
   role: Machine Learning Researcher
   time: Jan 2017 - May 2017
   company: Strava, Pittsburgh
-  details: "<ul><li>Analyzed geospatial data covering cycling patterns and found trends of Strava mobile application users in San Francisco area.</li><li>Performed exploratory and heat map analysis to analyze trend between increasing bike crimes and Strava user activities.</li><li>Designed a survey and provided recommendations for better mapping and identification of bike crimes related to Strava users.</li></ul>
-"
+  details: "<ul><li>Analyzed geospatial data covering cycling patterns and found trends of Strava mobile application users in San Francisco area</li><li>Performed exploratory and heat map analysis to analyze trend between increasing bike crimes and Strava user activities</li><li>Designed a survey and provided recommendations for better mapping and identification of bike crimes related to Strava users</li></ul>"
 - experience:
   role: Graduate Teaching Assistant 
   time: Jan 2017 - May 2017
   company: Carnegie Mellon University, Pittsburgh
-  details: "Assisted professor in grading and conducted office hours to help students understand class topics and resolve issues. I also created jupyter notebook tutorials for students on various external python libraries"
+  details: "<ul><li>Assisted professor in grading and conducted office hours to help students understand class topics and resolve issues</li><li>Created jupyter notebook tutorials for students on various external python libraries</li></ul>"
 - experience: 
   role: Data Scientist Intern
   time: May 2016 - July 2016
   company: Acompworld Technosoft, New Delhi
-  details: "During this time I designed a prototype of household products recommendation engine using customer transaction data to increase sales. Implemented item-item content recommenders and item-item collaborative filtering models."
+  details: "<ul><li>Designed a prototype of household products recommendation engine using customer transaction data to increase sales</li><li>Implemented item-item content recommenders and item-item collaborative filtering models</li></ul>"
 - experience: 
   role: Business Data Analyst 
   time: June 2013 - July 2015
   company: Metzer Optical Solutions, New Delhi
-  details: "I was repsonsible for generating ad-hoc reports on purchased products and tracked changes in overall customer base. Optimized the production process by analyzing product sales and customer data which led to 20% reduction in production cost. I also got an opportunity to work with the marketing team where we developed new marketing strategies by finding patterns in marketing data which increased the overall profits by 8%."
+  details: "<ul><li>Responsible for generating ad-hoc reports on purchased products and tracked changes in overall customer base</li><li>Optimized the production process by analyzing product sales and customer data which led to 20% reduction in production cost</li><li>I also got an opportunity to work with the marketing team where we developed new marketing strategies by finding patterns in marketing data which increased the overall profits by 8%</li></ul>"
