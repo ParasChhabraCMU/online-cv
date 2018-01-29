@@ -21,7 +21,7 @@ phone: 412-609-2376
 website: pchhabraonline.com #do not add http://
 linkedin: pchhabra2017
 github: ParasChhabraCMU
-summary: "I am interested in leveraging my experience in the area of Machine Learning and Deep Learning, to develop smarter future products with custom user experiences.<br>I have held various positions over the period of 4 years, working on business as well as technical aspect of product development. I have worked on varied data intensive projects across diverse industrial settings.Currently, I am working with Integra Technologies - a client of Wireclass. I am building a text classifier using convolutional neural network, to classify customer requests into different categories.<br>I am also working on some of my personal projects, using chatbots to improve customer experiences and fake news classification model."
+summary: "I am interested in leveraging my experience in the area of Machine Learning and Deep Learning, to develop smarter future products with custom user experiences.<br><br>I have held various positions over the period of 4 years, working on business as well as technical aspect of product development. I have worked on varied data intensive projects across diverse industrial settings. Currently, I am working with Integra Technologies - a client of Wireclass. I am building a text classifier using convolutional neural network, to classify customer requests into different categories.<br><br>I am also working on some of my personal projects, using chatbots to improve customer experiences and fake news classification model."
 
 #Update all the sections by editing the files inside _data folder.
 
