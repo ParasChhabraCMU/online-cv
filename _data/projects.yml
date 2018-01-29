@@ -1,30 +1,17 @@
 - project:
   title: New Face Generation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Face%20Generation"
-  tagline: "<p>This project involves implementing a generative adversarial networks also known as GAN's invented by Ian Goodfellow using celebrity dataset and MNIST dataset containing digit images
-</p>
-  <ul>
-  <li>Implemented a generative adversarial networks to generate new images of faces using a GPU</li>
-  <li>The model uses images of celebrity faces and generates new images after training</li>
-  <li>Programmed a discriminator neural network that discriminates on images as well as a generator to generate a new image</li>
-  </ul>"
+  tagline: "<p>This project involves implementing a generative adversarial networks also known as GAN's invented by Ian Goodfellow using celebrity dataset and MNIST dataset containing digit images</p><ul><li>Implemented a generative adversarial networks to generate new images of faces using a GPU</li><li>The model uses images of celebrity faces and generates new images after training</li><li>Programmed a discriminator neural network that discriminates on images as well as a generator to generate a new image</li></ul>"
 - project: 
   title: Language Translation System
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Language%20Translation"
-  tagline: "<ul>
-  <li>Build a translation system for translating English and French sentences using sequence to sequence model</li>
-  <li>Implemented batch processing and trained the model on GPU</li>
-  <li>Achieved a validation accuracy of 98.58% and a loss of 0.0134%</li></ul>"
+  tagline: "<ul><li>Build a translation system for translating English and French sentences using sequence to sequence model</li><li>Implemented batch processing and trained the model on GPU</li><li>Achieved a validation accuracy of 98.58% and a loss of 0.0134%</li></ul>"
 - project:
   title: TV Script Generation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/TV%20Script%20Generation"
   tagline: "<ul>
   <p>The project focuses on building a model to generate new TV scripts by training a neural network model</p>
-  <li>Build a recurrent neural network model to generate new TV scripts using the Simpson TV Show script by training the model on AWS GPU</li>
-  <li>Performed  hyperparameters tuning to achieve a training loss of 0.16</li>
-  <li>Generated a new TV script for a scene at Moe's Tavern bar</li>
-  <li>Implemented word embedding, batch processing and trained the model</li>
-  </ul>"
+  <li>Build a recurrent neural network model to generate new TV scripts using the Simpson TV Show script by training the model on AWS GPU</li><li>Performed  hyperparameters tuning to achieve a training loss of 0.16</li><li>Generated a new TV script for a scene at Moe's Tavern bar</li><li>Implemented word embedding, batch processing and trained the model</li></ul>"
 - project:
   title: CIFAR-10 Dataset Image Classification
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Image%20Classification%20CIFAR-10"
@@ -32,20 +19,11 @@
 - project:
   title: Bike Share Prediction System
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/BikeShare_NeuralNetwork"
-  tagline: "<ul>
-  <p>  This project involved building a bike share prediction system using the red work bike share dataset provided by UCI Machine Learning Repository. The dataset includes daily and hourly bike share data for years 2011 and 2012</p>
-  <li>Build a regression model using a neural network for the system to predict bike sharing rides from historical data</li>
-  <li>Tweaked hyperparameters to study overfitting and underfitting of model</li>
-  <li>Implemented concepts of gradient descent, backpropagation, hyperparameter tuning, loss function selection and activation function</li>
-  </ul>"
+  tagline: "<ul><p>This project involved building a bike share prediction system using the red work bike share dataset provided by UCI Machine Learning Repository. The dataset includes daily and hourly bike share data for years 2011 and 2012</p><li>Build a regression model using a neural network for the system to predict bike sharing rides from historical data</li><li>Tweaked hyperparameters to study overfitting and underfitting of model</li><li>Implemented concepts of gradient descent, backpropagation, hyperparameter tuning, loss function selection and activation function</li></ul>"
 - project: 
   title: IMDB Movie Dataset Sentiment Analysis
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/SentimentAnalysis_AndrewTrask%20"
-  tagline: "<ul>
-  <p>This project is based on lectures by Andrew Trask on sentiment analysis using IMDB movie reviews dataset</p>
-  <li>Implemented a classification algorithm using neural network to classify movie reviews as positive or negative</li>
-  <li>Reduced noise by strategically reducing the vocabulary of input data</li>
-  </ul>"
+  tagline: "<ul><p>This project is based on lectures by Andrew Trask on sentiment analysis using IMDB movie reviews dataset</p><li>Implemented a classification algorithm using neural network to classify movie reviews as positive or negative</li><li>Reduced noise by strategically reducing the vocabulary of input data</li></ul>"
 - project:
   title: Short Deep Learning Projects
   link: "https://github.com/ParasChhabraCMU/DeepLearning-AndrewNg"
