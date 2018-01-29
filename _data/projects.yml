@@ -1,7 +1,14 @@
 - project:
-  title: Image Generation using Deep Convolutional Generative Adversarial Network (DCGAN) 
+  title: New Face Generation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Face%20Generation"
-  tagline: "<ul><li>Constructed a generative adversarial networks to generate new realistic images using celebrity image data</li></ul>"
+  tagline: "<p>This project involves implementing a generative adversarial networks also known as GAN's invented by Ian Goodfellow using celebrity dataset and MNIST dataset containing digit images
+</p>
+  <ul>
+  <li>Implemented a generative adversarial networks to generate new images of faces using a GPU</li>
+  <li>The model uses images of celebrity faces and generates new images after training</li>
+  <li>Programmed a discriminator neural network that discriminates on images as well as a generator to generate a new image</li>
+  </ul>"
+  
 - project: 
   title: Sequence to Sequence Model for English to French translation
   link: "https://github.com/ParasChhabraCMU/DeepLearning/tree/master/Language%20Translation"
