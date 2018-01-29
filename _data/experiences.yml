@@ -7,7 +7,7 @@
   role: Machine Learning Researcher
   time: Jan 2017 - May 2017
   company: Strava, Pittsburgh
-  details: "<ul><li>Analyzed geospatial data covering cycling patterns and found trends of Strava mobile application users in San Francisco area</li><li>Performed exploratory and heat map analysis to analyze trend between increasing bike crimes and Strava user activities</li><li>Designed a survey and provided recommendations for better mapping and identification of bike crimes related to Strava users</li></ul>"
+  details: "<p>Strava is a website and mobile app used to track athletic activity via satellite navigation. Its is also called "The Social Network for Athletes”</p><ul><li>Analyzed geospatial data covering cycling patterns and found trends of Strava mobile application users in San Francisco area</li><li>Performed exploratory and heat map analysis to analyze trend between increasing bike crimes and Strava user activities</li><li>Designed a survey and provided recommendations for better mapping and identification of bike crimes related to Strava users</li></ul>"
 - experience:
   role: Graduate Teaching Assistant 
   time: Jan 2017 - May 2017
@@ -17,7 +17,7 @@
   role: Data Scientist Intern
   time: May 2016 - July 2016
   company: Acompworld Technosoft, New Delhi
-  details: "<ul><li>Designed a prototype of household products recommendation engine using customer transaction data to increase sales</li><li>Implemented item-item content recommenders and item-item collaborative filtering models</li></ul>"
+  details: "<p>Acompworld combines agile and design thinking practices to deliver digital platforms.</p><ul><li>Designed a prototype of household products recommendation engine using customer transaction data to increase sales</li><li>Implemented item-item content recommenders and item-item collaborative filtering models</li><li>Maximized ROI of different marketing strategies, by analyzing customer’s purchasing patterns and transaction history</li><li>Developed a prototype model to deploy Aadhaar dataset on No-SQL database for accounting consistency, availability and partition tolerance metrics</li><li>Conducted workshops on No-SQL databases and their implementations in various scenarios, at National Informatics Center</li></ul>"
 - experience: 
   role: Business Data Analyst 
   time: June 2013 - July 2015
