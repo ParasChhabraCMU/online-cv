@@ -1,7 +1,7 @@
 - experience:
-  role: Data Scientist (Part-Time)
+  role: Data Scientist (Contract)
   time: Oct 2017 - Present
-  company: Wireclass, Mountain View
+  company: Integra Technologies LLC, Mountain View
   details: "<p>Currently working with Wireclass which is a multi-faceted Information Technology and Business Consulting company. It provides services to various clients in US. I am working as a Data Scientist for Integra Technologies LLC - a client of Wireclass.</p><ul><li>Communicating directly with clients to resolve data questions and presenting findings by analyzing financial and sales data</li><li>Developing a text classifier using convolutional neural network to classify requests into different categories</li></ul>"
 - experience: 
   role: Machine Learning Researcher
@@ -16,8 +16,8 @@
 - experience: 
   role: Data Scientist Intern
   time: May 2016 - July 2016
-  company: Acompworld Technosoft, New Delhi
-  details: "<p>Acompworld combines agile and design thinking practices to deliver digital platforms.</p>
+  company: AVM IT Solutions (Startup), New Delhi
+  details: "
   <ul>
   <li>Designed a prototype of household products recommendation engine using customer transaction data to increase sales</li>
   <li>Implemented item-item content recommenders and item-item collaborative filtering models</li>
